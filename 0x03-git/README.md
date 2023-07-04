@@ -1,1 +1,1 @@
-not empty file 
+This project is about learning git 
